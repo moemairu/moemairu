@@ -14,8 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-faruqy)
 [![GitHub](https://img.shields.io/badge/GitHub-111722?style=flat&logo=github&logoColor=white)](https://github.com/moemairu)
 
-<br>
-
 <img src="./contrib-heatmap.svg" width="860" alt="Isma'il Faruqy GitHub contribution graph — auto-refreshed daily" />
 
 <br>
