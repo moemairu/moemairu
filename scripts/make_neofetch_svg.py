@@ -58,7 +58,15 @@ ROW_DUR = 0.11
 STAGGER = 0.11
 
 # ---- 1. Sample the image ----------------
-im = Image.open(SRC).convert("L")
+im_raw = Image.open(SRC)
+
+# Handle transparency: paste onto a white background so transparent parts become spaces
+if im_raw.mode in ('RGBA', 'LA') or (im_raw.mode == 'P' and 'transparency' in im_raw.info):
+    im_raw = im_raw.convert("RGBA")
+    white_bg = Image.new("RGBA", im_raw.size, (255, 255, 255, 255))
+    im_raw = Image.alpha_composite(white_bg, im_raw)
+
+im = im_raw.convert("L")
 if SHARPEN:
     im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=140, threshold=2))
 im = ImageEnhance.Brightness(im).enhance(BRIGHTNESS)
