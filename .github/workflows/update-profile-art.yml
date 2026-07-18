@@ -26,6 +26,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
+      - name: Render Neofetch SVG
+        run: python scripts/make_neofetch_svg.py
+
       - name: Scrape real contribution data (no auth needed)
         run: python scripts/fetch_contributions.py
 
