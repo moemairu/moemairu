@@ -1,10 +1,16 @@
 <div align="center">
 
-<h1>Hi, I'm Isma'il Faruqy 👋</h1>
-<p><b>Cyber Security Enthusiast · Systems Programmer · Researcher</b></p>
+> *"O Captain! My Captain! The fearful trip is done,<br>The ship has weather’d every rack, the prize we sought is won."*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=windows&logoColor=black)](https://drive.google.com/file/d/1FxBXbKsS2sppxu2NANQ1rRreELtA4xP3/view?usp=sharing)
-[![Resume/CV](https://img.shields.io/badge/Resume/CV-c9d1d9?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://drive.google.com/file/d/1cBOe21QMotz8nLXflig3Or1OKYV6lSvV/view?usp=sharing)
+<br>
+
+# Isma'il Faruqy
+**Cyber Security Enthusiast · Systems Programmer · Researcher**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=googledocs&logoColor=black)](https://drive.google.com/file/d/1FxBXbKsS2sppxu2NANQ1rRreELtA4xP3/view?usp=sharing)
+[![Resume/CV](https://img.shields.io/badge/Resume/CV-c9d1d9?style=for-the-badge&logo=googledocs&logoColor=black)](https://drive.google.com/file/d/1cBOe21QMotz8nLXflig3Or1OKYV6lSvV/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-faruqy)
 [![GitHub](https://img.shields.io/badge/GitHub-111722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moemairu)
 
