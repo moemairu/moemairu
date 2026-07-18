@@ -7,12 +7,12 @@
 ## Isma'il Faruqy *a.k.a* mole? *moemairu*
 **Cyber Security Enthusiast · Systems Programmer · Researcher**
 
-<br>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-22d3ee?style=flat&logo=googledocs&logoColor=black)](https://drive.google.com/file/d/1FxBXbKsS2sppxu2NANQ1rRreELtA4xP3/view?usp=sharing)
 [![Resume/CV](https://img.shields.io/badge/Resume/CV-c9d1d9?style=flat&logo=googledocs&logoColor=black)](https://drive.google.com/file/d/1cBOe21QMotz8nLXflig3Or1OKYV6lSvV/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-faruqy)
 [![GitHub](https://img.shields.io/badge/GitHub-111722?style=flat&logo=github&logoColor=white)](https://github.com/moemairu)
+
+<br>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Isma'il Faruqy GitHub contribution graph — auto-refreshed daily" />
 
