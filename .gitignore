@@ -1,7 +1,5 @@
 # Generated intermediate files -- run scripts locally to regenerate
 source-photo.png
-source-prepped.png
-
 # Python cache
 __pycache__/
 *.py[cod]
