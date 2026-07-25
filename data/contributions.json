@@ -1,17 +1,17 @@
 {
   "username": "moemairu",
-  "generated_at": "2026-07-24T08:45:32Z",
+  "generated_at": "2026-07-25T08:26:50Z",
   "range": {
     "start": "2025-07-20",
-    "end": "2026-07-24"
+    "end": "2026-07-25"
   },
-  "total_contributions": 253,
-  "active_days": 48,
-  "avg_per_active_day": 5.3,
+  "total_contributions": 254,
+  "active_days": 49,
+  "avg_per_active_day": 5.2,
   "current_streak": {
-    "length": 6,
+    "length": 7,
     "start": "2026-07-18",
-    "end": "2026-07-23"
+    "end": "2026-07-24"
   },
   "longest_streak": {
     "length": 13,
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-07",
-      "total": 108
+      "total": 109
     }
   ],
   "days": [
@@ -1555,6 +1555,10 @@
     },
     {
       "date": "2026-07-24",
+      "count": 1
+    },
+    {
+      "date": "2026-07-25",
       "count": 0
     }
   ]
