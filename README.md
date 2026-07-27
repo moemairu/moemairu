@@ -12,6 +12,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ismail-faruqy)
 [![GitHub](https://img.shields.io/badge/GitHub-111722?style=flat&logo=github&logoColor=white)](https://github.com/moemairu)
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:ismail.faruqy@proton.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ismailfaruq.qy@gmail.com)
 
 <br>
 
