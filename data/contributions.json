@@ -1,22 +1,22 @@
 {
   "username": "moemairu",
-  "generated_at": "2026-08-17T07:18:46Z",
+  "generated_at": "2026-08-18T07:07:46Z",
   "range": {
     "start": "2025-08-17",
+    "end": "2026-08-18"
+  },
+  "total_contributions": 338,
+  "active_days": 73,
+  "avg_per_active_day": 4.6,
+  "current_streak": {
+    "length": 31,
+    "start": "2026-07-18",
     "end": "2026-08-17"
   },
-  "total_contributions": 337,
-  "active_days": 72,
-  "avg_per_active_day": 4.7,
-  "current_streak": {
-    "length": 30,
-    "start": "2026-07-18",
-    "end": "2026-08-16"
-  },
   "longest_streak": {
-    "length": 30,
+    "length": 31,
     "start": "2026-07-18",
-    "end": "2026-08-16"
+    "end": "2026-08-17"
   },
   "best_day": {
     "date": "2026-07-19",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 40
+      "total": 41
     }
   ],
   "days": [
@@ -1539,6 +1539,10 @@
     },
     {
       "date": "2026-08-17",
+      "count": 1
+    },
+    {
+      "date": "2026-08-18",
       "count": 0
     }
   ]
